@@ -42,3 +42,11 @@ Colección de productos cartográficos, análisis territoriales y modelamiento e
 * **Objetivo:** Delimitación cartográfica multiescalar (departamento, municipio, comunas y división barrial) para caracterización urbana y delimitación de área de estudio en Popayán.
 * **Fuentes de Datos:** Alcaldía de Popayán (SIG POP) e Instituto Geográfico Agustín Codazzi (IGAC).
 * **Sistema de Referencia (SRC):** `MAGNA-SIRGAS 2018 / Origen-Nacional (EPSG:9377)` | **Escala:** 1:82.000.
+---
+
+### Zonificación Cafetera: Subregión Centro del Departamento del Cauca
+![Zonificación Cafetera Subregión Centro Cauca](mapas/mapa_zonificacion_cafetera_subregion_centro_cauca.jpg)
+
+* **Objetivo:** Delimitación espacial y caracterización político-administrativa de los municipios que integran la Subregión Cafetera Centro del Cauca (Morales, Cajibío, Piendamó - Tunía, El Tambo, Popayán, Totoró, Timbío, Rosas, Sotará, Puracé y La Sierra), articulada con esquemas de localización multiescalar a nivel departamental y nacional.
+* **Fuentes de Datos:** Instituto Geográfico Agustín Codazzi (IGAC), Federación Nacional de Cafeteros (FNC) e imagen base satelital de Google.
+* **Sistema de Referencia (SRC):** `MAGNA-SIRGAS / Origen Nacional (EPSG:9377)` | **Escala:** 1:100.000.
